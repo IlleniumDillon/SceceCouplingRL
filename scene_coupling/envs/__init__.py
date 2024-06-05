@@ -1,0 +1,1 @@
+from scene_coupling.envs.scene_coupling import SceneCouplingEnv
